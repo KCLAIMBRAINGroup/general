@@ -1,7 +1,7 @@
 # AIM BRAIN — King's Neuromodulation Epilepsy Research Team
 
-**Principal Investigator:** Dr Antonio Valentin  
 **Institution:** King's College London  
+**Principal Investigator:** Dr Antonio Valentin  
 
 ---
 
