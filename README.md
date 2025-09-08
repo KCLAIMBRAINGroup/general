@@ -48,8 +48,8 @@ We aim to accelerate translational epilepsy research by:
 
 ##  Contact
 
-**Lab email**: aimbrain@kcl.ac.uk,  anotnio.valentin@kcl.ac.uk  
-**Location**: King’s College London (Denmark Hill)  
+**Lab email**: anotnio.valentin@kcl.ac.uk  
+**Location**: King’s College London, IOPPN (Denmark Hill)  
 **Website**: _[Under construction — coming soon!]_
 
 ---
